@@ -300,6 +300,10 @@
     right: 29px;
   }
 
+  :root.theme-auto .header__rec {
+  display: none;
+}
+
   .decorated-zone::after {
     top: 20px;
     right: 20px;

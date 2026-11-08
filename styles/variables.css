@@ -1,20 +1,19 @@
 :root {
-  --page-background-image: url("../images/cover-image-dark.png");
-  --page-background-color: #000028;
+  --page-background-image: url("../images/cover-image-light.png");
+  --page-background-color: #fff1f7;
 
-  --accent-color: #ff0070;
-  --text-color: #f1b2ce;
-  --section-title-color: #ff0070;
+  --accent-color: #ff8dcb;
+  --text-color: #353430;
+  --section-title-color: #353430;
 
-  --title-decor-text-color: #000028;
+  --title-decor-text-color: #353430;
 
-  --main-title-color: #db00ff;
-  --main-title-shadow-color: #ff0070;
+  --main-title-color: #ffc2e6;
+  --main-title-shadow-color: #ff8dcb;
 
-  --decor-color: #ff0070;
-  --button-color: #ff0070;
+  --decor-color: #353430;
+  --button-color: #353430;
 
-  --button-hover-border-color: rgba(255, 0, 112, 0.4);
-  --button-focus-border-color: #ff0070;
+  --button-hover-border-color: rgba(50, 49, 45, 0.4);
+  --button-focus-border-color: #353430;
 }
-
