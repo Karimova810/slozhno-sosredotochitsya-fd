@@ -19,7 +19,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root.theme-auto {
+  :root {
     --page-background-image: url("../images/cover-image-dark.png");
     --page-background-color: #000028;
 
